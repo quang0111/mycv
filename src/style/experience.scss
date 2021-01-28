@@ -1,0 +1,20 @@
+.container-experience{
+ background-color: rgb(229, 239, 248);
+ height: 500px;
+ width: 100%;
+ overflow: hidden;
+ .container-experience__Tab {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+ }
+ span{
+  color: rgb(18, 36, 36);
+  display: block;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+ }
+}
